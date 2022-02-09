@@ -18,7 +18,7 @@ object Form1: TForm1
     Top = 128
     Width = 138
     Height = 58
-    Caption = 'Label1'
+    Caption = 'Exemplo uso mais ou menos github'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -48
